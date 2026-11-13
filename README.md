@@ -3,7 +3,6 @@ Navbar: Gabriel;
 Hero: Miguel e Enrico;
 Footer: Davi e Daniel;
 
-
 Passo a passo de como usar aplicação:
 
 1-Clonar o repositório 
@@ -13,7 +12,9 @@ Passo a passo de como usar aplicação:
 
 2-Abra um git bash
 
-    Na pasta correspondente, clique com o botão direito, vá em " open git bash here", digite "cd" e cole o link copiado, depois enter
+    Digite "npm install" e espere carregar;
+    na pasta correspondente, clique com o botão direito, vá em "open git bash here", 
+    digite "cd" e cole o link copiado, depois enter
 
 3-Espere até carregar
 
@@ -21,4 +22,4 @@ Passo a passo de como usar aplicação:
 
 4-copie o link que aparecer na tela
 
-5-
+5-coloque o link no navegador e entre no site 
